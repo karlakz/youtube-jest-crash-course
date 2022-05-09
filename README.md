@@ -1,2 +1,3 @@
 # youtube-jest-crash-course
-Youtube course: "Jest Crash Course - Unit testing" by Traversy Media
+
+YouTube course "[Jest Crash Course - Unit Testing in JavaScript](https://www.youtube.com/watch?v=7r4xVDI2vho&t)"
