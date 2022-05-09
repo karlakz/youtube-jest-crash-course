@@ -1,0 +1,22 @@
+{
+  "name": "youtube-jest-crash-course",
+  "version": "1.0.0",
+  "description": "YouTube course \"[Jest Crash Course - Unit Testing in JavaScript](https://www.youtube.com/watch?v=7r4xVDI2vho&t)\"",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git@gitlab.com:l4433/jest/youtube-jest-crash-course.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "jest": "^28.1.0"
+  },
+  "dependencies": {
+    "axios": "^0.27.2"
+  }
+}
